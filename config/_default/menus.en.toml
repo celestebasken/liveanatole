@@ -21,3 +21,9 @@
   weight = 400
   identifier = "contact"
   url = "/contact/"
+  
+    [[main]]
+  name = "Maps"
+  weight = 400
+  identifier = "maps"
+  url = "/maps/"
